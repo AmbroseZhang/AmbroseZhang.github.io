@@ -1,0 +1,26 @@
+.about{
+    background: rgb(51,51,51);
+    width: 100%;
+    height: 45px;
+    margin-top: 28.5px;
+}
+#header{
+    text-align: center;
+    margin-top: 80px;
+}
+#header span{
+   font-size: 2.5em;
+    color: rgba(123, 123, 123, 0.72);
+    font-family: 'Raleway19280e4194b2b',sans-serif;
+   text-align:center;
+    display: inline-block;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+#photo{
+    background: rgb(249,249,249);
+}
+#photo img{
+   width: 40%;
+    margin: 20px 30px 20px 0px;
+}
