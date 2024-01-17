@@ -39,26 +39,15 @@ nav ul li{
     top: 5.5%;
     left: 75%;
 }
-nav a{
-    text-decoration: none;
-    position: absolute;
-    font-family: 'Helvetica-Neue-178d153204b2b',sans-serif;
-    font-weight: 100;
-    font-size: 13px;
-}
-nav a:link,nav a:visited{
-    color: #fff;
-}
-nav a:hover{
-    color: rgb(226,58,93);
-}
+
 .hero h1{
     position: absolute;
     color: #FFF;
     font-family: 'Raleway19280e4194b2b',sans-serif;
     font-weight: 100;
+    font-size: 500;
     top: 40%;
-    left: 35%;
+    left: 40%;
 }
 .hero p{
     position: absolute;
